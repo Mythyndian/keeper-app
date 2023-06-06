@@ -4,6 +4,7 @@
 Keeper clone app written using React.js
 
 ## Demo
+![alt text](https://github.com/Mythyndian/keeper-app/blob/main/keeper-app-demo.png?raw=true)
 
 ## Features
 - Adding notes

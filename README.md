@@ -11,8 +11,8 @@ Keeper clone app written using React.js
 - Removing notes
 
 ## Dependencies
-- @emotion/react: 11.11.0,
-- @emotion/styled: 11.11.0,
+- @emotion/react: 11.11.0
+- @emotion/styled: 11.11.0
 - @mui/icons-material: 5.11.16
 - @mui/material: 5.13.2
 - react: 18.2.0
